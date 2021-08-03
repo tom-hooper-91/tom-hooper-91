@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom Hooper
 - 👀 I’m interested in building full-stack applications using Node, React and Redux
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently working on my portfolio page
 - 💞️ I’m looking to collaborate on projects which have everyday uses
 - 📫 How to reach me tomwbhooper@hotmail.com
 
