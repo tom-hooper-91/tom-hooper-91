@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tom Hooper
-- 👀 I’m interested in building full-stack applications using Node.js, React and Redux
-- 🌱 I’m currently working on my lift-tracker app
-- 💞️ I’m looking to learn TypeScript and .NET
+- 👀 I’m interested in building full-stack applications that solve real world problems using Node.js, React and Redux
+- 🌱 I’m currently working on building my skills in C# and .Net
+- 💞️ I’m looking to learn TypeScript in the future
 - 📫 How to reach me - tomwbhooper@hotmail.com
 
 <!---
